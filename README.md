@@ -47,7 +47,7 @@ Building a model the demand for shared bikes with the available independent vari
 
 ## Contact
 Created by 
-Swarna Polamarasetti[https://github.com/swarna138/LinearRegression]
+Swarna Polamarasetti[https://github.com/swarna138/Linear_Regression]
 
 
 
